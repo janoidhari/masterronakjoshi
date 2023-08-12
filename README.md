@@ -1,6 +1,10 @@
 📖 About me
 
-- 🖥 Full time IT Trainer (specially in Flutter)
+-  🧑🏻‍🏫 Assi.Prof of GrowMore BCA College,Himmatnagar
+-  🧑🏻‍🏫 Phd Pursing in SPU
+-  Founder Of 🕉️Stack
+- 🖥 Full time IT Trainer (specially in Flutter/C/C++/Python)
+- 🖥 Learning ReactNative 
 - 👀 I’m interested in Developing Native MobileApp & Desktop application 
 - 🌱 I’m currently learning  AdvanceFlutter & python
 - 💞️ I’m looking to collaborate on with enterprise
